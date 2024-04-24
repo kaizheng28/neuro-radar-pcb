@@ -1,0 +1,29 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [NeuroMIX.PrjPcb]
+   Generated File[NeuroMIX_D_Copper_Signal_Top.gbr]
+   Generated File[NeuroMIX_D_Copper_Signal_Bot.gbr]
+   Generated File[NeuroMIX_D_Pads_Bot.gbr]
+   Generated File[NeuroMIX_D_Pads_Top.gbr]
+   Generated File[NeuroMIX_D_Soldermask_Bot.gbr]
+   Generated File[NeuroMIX_D_Paste_Bot.gbr]
+   Generated File[NeuroMIX_D_Legend_Top.gbr]
+   Generated File[NeuroMIX_D_Paste_Top.gbr]
+   Generated File[NeuroMIX_D_Soldermask_Top.gbr]
+   Generated File[NeuroMIX_D_Mechanical_13.gbr]
+   Generated File[NeuroMIX_D_Mechanical_1.gbr]
+   Generated File[NeuroMIX_D_Mechanical_15.gbr]
+   Generated File[NeuroMIX_D_Profile.gbr]
+   Generated File[NeuroMIX_D_NPTH_Drill.gbr]
+   Generated File[NeuroMIX_D_PTH_Drill.gbr]
+   Generated File[NeuroMIX_D_Drawing_1.gbr]
+   Generated File[NeuroMIX_D_Drillmap_1.gbr]
+   Generated File[NeuroMIX_D.RUL]
+   Generated File[NeuroMIX_D.EXTREP]
+   Generated File[NeuroMIX_D.REP]
+
+
+Files Generated   : 20
+Documents Printed : 0
+
+Finished Output Generation At 6:04:36 PM On 6/17/2022

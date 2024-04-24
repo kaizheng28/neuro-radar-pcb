@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\Kai\Dropbox\01_work\02_neuro_radar\01_hardware\02_Mixer\NeuroMIX_D\NeuroMIX_D.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
