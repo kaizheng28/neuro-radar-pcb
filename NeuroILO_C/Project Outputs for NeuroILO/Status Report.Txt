@@ -1,0 +1,28 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [NeuroILO.PrjPcb]
+   Generated File[neuroILO_C_Copper_Signal_Top.gbr]
+   Generated File[neuroILO_C_Copper_Signal_Bot.gbr]
+   Generated File[neuroILO_C_Pads_Bot.gbr]
+   Generated File[neuroILO_C_Pads_Top.gbr]
+   Generated File[neuroILO_C_Soldermask_Bot.gbr]
+   Generated File[neuroILO_C_Paste_Bot.gbr]
+   Generated File[neuroILO_C_Legend_Top.gbr]
+   Generated File[neuroILO_C_Paste_Top.gbr]
+   Generated File[neuroILO_C_Soldermask_Top.gbr]
+   Generated File[neuroILO_C_Mechanical_13.gbr]
+   Generated File[neuroILO_C_Mechanical_15.gbr]
+   Generated File[neuroILO_C_Profile.gbr]
+   Generated File[neuroILO_C_NPTH_Drill.gbr]
+   Generated File[neuroILO_C_PTH_Drill.gbr]
+   Generated File[neuroILO_C_Drawing_1.gbr]
+   Generated File[neuroILO_C_Drillmap_1.gbr]
+   Generated File[neuroILO_C.RUL]
+   Generated File[neuroILO_C.EXTREP]
+   Generated File[neuroILO_C.REP]
+
+
+Files Generated   : 19
+Documents Printed : 0
+
+Finished Output Generation At 3:23:15 PM On 5/31/2022
