@@ -1,0 +1,27 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [NeuroBB.PrjPcb]
+   Generated File[NeuroBB_B_Copper_Signal_Top.gbr]
+   Generated File[NeuroBB_B_Copper_Signal_Bot.gbr]
+   Generated File[NeuroBB_B_Pads_Bot.gbr]
+   Generated File[NeuroBB_B_Pads_Top.gbr]
+   Generated File[NeuroBB_B_Legend_Top.gbr]
+   Generated File[NeuroBB_B_Soldermask_Top.gbr]
+   Generated File[NeuroBB_B_Soldermask_Bot.gbr]
+   Generated File[NeuroBB_B_Paste_Top.gbr]
+   Generated File[NeuroBB_B_Paste_Bot.gbr]
+   Generated File[NeuroBB_B_Mechanical_13.gbr]
+   Generated File[NeuroBB_B_Mechanical_15.gbr]
+   Generated File[NeuroBB_B_Profile.gbr]
+   Generated File[NeuroBB_B_NPTH_Drill.gbr]
+   Generated File[NeuroBB_B_PTH_Drill.gbr]
+   Generated File[NeuroBB_B_Drawing_1.gbr]
+   Generated File[NeuroBB_B_Drillmap_1.gbr]
+   Generated File[NeuroBB_B.EXTREP]
+   Generated File[NeuroBB_B.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 2:45:38 PM On 8/12/2022
