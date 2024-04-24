@@ -1,0 +1,27 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [NeuroMother.PrjPcb]
+   Generated File[NeuroMother_A_Copper_Signal_Top.gbr]
+   Generated File[NeuroMother_A_Copper_Signal_Bot.gbr]
+   Generated File[NeuroMother_A_Pads_Bot.gbr]
+   Generated File[NeuroMother_A_Pads_Top.gbr]
+   Generated File[NeuroMother_A_Soldermask_Bot.gbr]
+   Generated File[NeuroMother_A_Legend_Top.gbr]
+   Generated File[NeuroMother_A_Paste_Top.gbr]
+   Generated File[NeuroMother_A_Soldermask_Top.gbr]
+   Generated File[NeuroMother_A_Mechanical_13.gbr]
+   Generated File[NeuroMother_A_Mechanical_15.gbr]
+   Generated File[NeuroMother_A_Profile.gbr]
+   Generated File[NeuroMother_A_NPTH_Drill.gbr]
+   Generated File[NeuroMother_A_PTH_Drill.gbr]
+   Generated File[NeuroMother_A_Drawing_1.gbr]
+   Generated File[NeuroMother_A_Drillmap_1.gbr]
+   Generated File[NeuroMother_A.RUL]
+   Generated File[NeuroMother_A.EXTREP]
+   Generated File[NeuroMother_A.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 12:52:31 PM On 9/26/2022

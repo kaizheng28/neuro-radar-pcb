@@ -1,0 +1,69 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\zheng\Dropbox\01_work\02_neuro_radar\01_hardware\07_Motherboard\NeuroMother\NeuroMother_A.PcbDoc
+Date     : 9/26/2022
+Time     : 12:52:07 PM
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=200mil) (Preferred=33mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=150mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=4mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=4mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=4mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Room U_daughter4 (Bounding Region = (1035mil, 7739.2mil, 10870mil, 9174.2mil) (InComponentClass('U_daughter4'))
+Rule Violations :0
+
+Processing Rule : Room U_daughter3 (Bounding Region = (1035mil, 11046.3mil, 10870mil, 12481.3mil) (InComponentClass('U_daughter3'))
+Rule Violations :0
+
+Processing Rule : Room U_daughter5 (Bounding Region = (1035mil, 4432.1mil, 10870mil, 5867.1mil) (InComponentClass('U_daughter5'))
+Rule Violations :0
+
+Processing Rule : Room U_daughter2 (Bounding Region = (1035mil, 14353.4mil, 10870mil, 15788.4mil) (InComponentClass('U_daughter2'))
+Rule Violations :0
+
+Processing Rule : Room U_daughter6 (Bounding Region = (1035mil, 1125mil, 10870mil, 2560mil) (InComponentClass('U_daughter6'))
+Rule Violations :0
+
+Processing Rule : Room U_daughter1 (Bounding Region = (1035mil, 17660.5mil, 10870mil, 19095.5mil) (InComponentClass('U_daughter1'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:02
