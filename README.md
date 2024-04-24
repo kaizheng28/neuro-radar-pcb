@@ -7,6 +7,8 @@ Each channel comprises the ILO, the Mixer, and the spike encoder. They can be as
 The base board provides stable power supply as well as a stable machanical structure for upto 6 channels of the NeuroRadar sensor. The assembled single channel sensor can be attached to the base board through 2.54mm header pins.
 ![6-channel](https://github.com/kaizheng28/neuro-radar/assets/144567523/88a82930-523f-446b-a855-ca759a44e0f7)
 
+
+## File Foldere Explanation
 **NeuroBB**
 The basebase processing circuit and the spike encoder.
 
